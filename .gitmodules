@@ -1,0 +1,3 @@
+[submodule "lsdf"]
+	path = lsdf
+	url = https://github.com/animsuite/lsdf
