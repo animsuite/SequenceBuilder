@@ -17,5 +17,5 @@ lsdf = { version = "0.1", path = "../lsdf" }
 eframe = "0.17.0"
 log = "0.4.14"
 fern = "0.6.0"
-poll-promise = "0.1"
+poll-promise = "0.2"
 tokio = { version = "1.17.0", features = ["macros", "rt-multi-thread"] }
