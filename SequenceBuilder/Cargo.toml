@@ -14,7 +14,7 @@ categories = []
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
 lsdf = { version = "0.1", path = "../lsdf" }
-eframe = "0.17.0"
+eframe = "0.21.3"
 log = "0.4.14"
 fern = "0.6.0"
 poll-promise = "0.1"
